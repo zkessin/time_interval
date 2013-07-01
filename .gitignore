@@ -1,4 +1,7 @@
-
 *.beam
-
 ebin/time_interval.app
+.eunit
+deps
+*.o
+*.beam
+*.plt
