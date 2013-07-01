@@ -1,0 +1,4 @@
+
+*.beam
+
+ebin/time_interval.app
